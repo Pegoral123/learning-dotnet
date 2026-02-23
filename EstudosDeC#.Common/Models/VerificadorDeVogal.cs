@@ -1,4 +1,4 @@
-
+namespace EstudosDeC.Common.Models {  
 public class VerificarVogal
 {
 
@@ -29,3 +29,5 @@ public class VerificarVogal
 
 }
 
+
+}

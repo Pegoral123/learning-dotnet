@@ -1,4 +1,4 @@
-namespace EstudosDeC_.Models
+namespace EstudosDeC.Common.Models
 {
     public class Calculadora
     {

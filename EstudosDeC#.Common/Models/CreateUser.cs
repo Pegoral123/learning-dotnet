@@ -1,5 +1,4 @@
-﻿using System.Dynamic;
-
+﻿namespace EstudosDeC.Common.Models { 
 public class CreateUser
 {
   public int idadeDoCliente { get; set; }
@@ -32,6 +31,7 @@ public class CreateUser
 
 }
 
+}
 
 
 
